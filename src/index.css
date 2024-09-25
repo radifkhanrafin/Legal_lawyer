@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 *{
-    font-family: "Jost", sans-serif;
+  scroll-behavior: smooth ;
 }
